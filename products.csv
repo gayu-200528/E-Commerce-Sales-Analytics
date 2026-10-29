@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Wireless Mouse,Electronics,799
+P002,Keyboard,Electronics,1299
+P003,Headphones,Electronics,1999
+P004,USB Cable,Accessories,299
+P005,Laptop Stand,Accessories,999
+P006,Water Bottle,Home & Living,499
+P007,Desk Lamp,Home & Living,1499
+P008,Backpack,Bags,1799
+P009,Notebook Set,Stationery,249
+P010,Pen Pack,Stationery,149
+P011,Running Shoes,Fashion,2499
+P012,T-Shirt,Fashion,699
+P013,Smart Watch,Electronics,3999
+P014,Phone Case,Accessories,399
+P015,Coffee Mug,Home & Living,349
