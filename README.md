@@ -91,3 +91,21 @@ E-Commerce-Sales-Analytics/
     ├── sales-analysis.png
     ├── customer-details.png
     └── product-performance.png
+** ## Dashboard Screenshots**
+
+1. Sales Analysis Dashboard
+![Sales Analysis](./Sales_Analysis.png)
+
+
+2. Customer Analysis Dashboard
+
+
+
+3. Product Performance Dashboard
+
+
+
+Overall Conclusion
+
+This project uses Power BI to analyze e-commerce sales, customer behavior, and product performance. The interactive dashboards present meaningful insights that help users understand business performance and support data-driven decision-making.
+
