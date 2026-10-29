@@ -79,7 +79,7 @@ The dashboards can help users:
 
 ##  Project Structure
 
-```text
+text
 E-Commerce-Sales-Analytics/
 ├── E-Commerce-Sales-Analytics.pbix
 ├── orders.csv
@@ -87,25 +87,37 @@ E-Commerce-Sales-Analytics/
 ├── products.csv
 ├── payments.csv
 ├── README.md
-└── screenshots/
-    ├── sales-analysis.png
-    ├── customer-details.png
-    └── product-performance.png
-** ## Dashboard Screenshots**
+├── sales-analysis.png
+├── customer-details.png
+└── product-performance.png
 
-1. Sales Analysis Dashboard
-![Sales Analysis](./Sales_Analysis.png)
+ ## Dashboard Screenshots**
+
+## 1. Sales Analysis Dashboard
+
+![Sales Analysis](Sales_Analysis.png)
+
+# Conclusion:
+The Sales Analysis Dashboard provides insights into overall sales performance, total orders, revenue, and sales trends. It helps identify sales patterns over time and understand which areas contribute more to total sales. This dashboard supports better sales planning and business decision-making.
+
+## 2. Customer Analysis Dashboard
+
+![Customer Analysis](./Customer_Analysis.png)
+
+# Conclusion:
+ The Customer Analysis Dashboard helps understand customer information, customer segments, and purchasing behavior. It provides insights into customer distribution and helps identify important customer groups. These insights can help businesses improve customer satisfaction and develop better customer retention strategies.
 
 
-2. Customer Analysis Dashboard
 
+## 3. Product Performance Dashboard
 
+![Product Analysis](./Product_Analysis.png)
 
-3. Product Performance Dashboard
+# Conclusion:
+ The Product Performance Dashboard analyzes product performance using product-related information such as price, category, stock quantity, and ratings. It helps identify popular products and compare product performance. These insights can support better inventory management and product-related business decisions.
 
+## Final Conclusion
 
-
-Overall Conclusion
-
-This project uses Power BI to analyze e-commerce sales, customer behavior, and product performance. The interactive dashboards present meaningful insights that help users understand business performance and support data-driven decision-making.
+The E-Commerce Sales & Customer Analytics project demonstrates how Power BI can be used to analyze e-commerce data and convert raw data into meaningful business insights. The project uses data cleaning and transformation, data modeling, and DAX measures to create interactive dashboards for sales analysis, customer analysis, and product performance.
+These dashboards help users understand sales trends, customer behavior, and product performance in a clear and organized way. Overall, the project demonstrates the importance of data visualization and business intelligence in supporting data-driven decisions and improving business performance.
 
